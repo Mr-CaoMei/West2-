@@ -1,5 +1,5 @@
 package GHL;
-//这个是2个线程的
+//2绾跨▼
 import java.util.Scanner;
 import java.util.concurrent.*;
 
